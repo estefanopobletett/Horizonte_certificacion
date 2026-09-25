@@ -133,13 +133,18 @@
     flex-direction: row;
     gap: 15px;
     margin: 10px;
+    align-items: center;
+    justify-content: center;
 }
 
 .orden img{
     height: 120px;
     width: 200px;
 }
-
+.fotoCambia video{
+    height: 200px;
+    margin-top: 50px;
+}
 .partePequena{
     display: flex;
     flex-direction: column;
