@@ -26,11 +26,11 @@ const foto = document.getElementById("videin")
 
 
 foto.addEventListener("mouseover", function () {
-    foto.src = "images/biblo2.png"
+    foto.src = "videos/3969597-uhd_3840_2160_25fps.mp4"
 })
 
 foto.addEventListener("mouseout", function () {
-    foto.src = "images/biblo.png"
+    foto.src = "videos/14759309_3840_2160_30fps.mp4"
 })
 
 

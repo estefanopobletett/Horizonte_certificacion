@@ -150,10 +150,10 @@
 .fotoCambia{
     margin: 10px;
 }
-.fotoCambia img{
-    height: 400px;
-    width: 400px;
-    margin-top: 50px;
+.fotoCambia video{
+    height: 500px;
+    width: 500px;
+
 }
 .partePequena{
     display: flex;
